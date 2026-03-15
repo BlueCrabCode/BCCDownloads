@@ -1,0 +1,19 @@
+#downloadsPanel {
+  width: 90vw;
+  height: 50vh;
+  background-color: rgb(50, 50, 50);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.section {
+  background-color: rgb(100, 100, 100);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.download {
+  border-radius: 5px
+}
